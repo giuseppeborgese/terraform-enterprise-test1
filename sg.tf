@@ -1,3 +1,4 @@
+/*
 resource "aws_security_group" "firstsg" {
 
     vpc_id      = "vpc-ae8855ca"
@@ -8,3 +9,4 @@ resource "aws_security_group" "firstsg" {
         Name  = "Terraform Enterprise test"
     }
 }
+*/
